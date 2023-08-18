@@ -1,2 +1,2 @@
 # fix_touch.sh
-fixes touch input rotation on steam deck
+fixes touch input rotation with Kali linux on steam deck
